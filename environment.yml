@@ -1,0 +1,7 @@
+  
+name: testJupyter
+channels:
+  - conda-forge
+dependencies:
+  - pyngrok
+
